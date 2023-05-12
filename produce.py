@@ -40,6 +40,16 @@ def dump_bird(lst, f):
         elif not n.dead:
             f.write('route %s via "%s";\n' % (n.cidr, args.next))
 
+def dump_addresslist(lst, f):
+    for n in lst:
+        if n.dead:
+            continue
+
+        if len(n.child) > 0:
+            dump_addresslist(n.child, f)
+        elif not n.dead:
+            f.write('add list=noCN address=' + str(n.cidr) + '\n')
+
 RESERVED = [
     IPv4Network('0.0.0.0/8'),
     IPv4Network('10.0.0.0/8'),
@@ -128,6 +138,13 @@ subtract_cidr(root_v6, RESERVED_V6)
 
 with open("routes4.conf", "w") as f:
     dump_bird(root, f)
+
+with open("noCN.rsc", "w") as f:
+    f.write('/ip firewall address-list\n')
+    f.write('remove [/ip firewall address-list find list=noCN]\n')
+    dump_addresslist(root, f)
+    f.write('/\n')
+    f.write('/file remove noCN.rsc\n')
 
 with open("routes6.conf", "w") as f:
     dump_bird(root_v6, f)
