@@ -124,12 +124,17 @@ with open("delegated-apnic-latest") as f:
             a = IPv6Network(a)
             subtract_cidr(root_v6, (a,))
 
-if 'ipip' in args.ipv4_list:
-    with open("china_ip_list.txt") as f:
-        for line in f:
-            line = line.strip('\n')
-            a = IPv4Network(line)
-            subtract_cidr(root, (a,))
+if 'ipip' in args.ipv4_list:                                     
+    with open("china_ip_list.txt") as f:                                 
+        for line in f:                                                                                   
+            if ":" in line:                                                                        
+                line = line.strip('\n')                                                                                                         
+                a = IPv6Network(line)                             
+                subtract_cidr(root_v6, (a,))
+            else:                                                 
+                line = line.strip('\n')   
+                a = IPv4Network(line)                             
+                subtract_cidr(root, (a,))
 
 # get rid of reserved addresses
 subtract_cidr(root, RESERVED)
