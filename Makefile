@@ -1,5 +1,5 @@
 produce:
-        rm -rf geosite_category-ads-all.txt
+	rm -rf geosite_category-ads-all.txt
 	rm -rf geosite_geolocation-!cn.txt
 	rm -rf geosite_cn.txt
 	curl https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt|grep -v github >> geosite_cn.txt
