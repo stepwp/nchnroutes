@@ -11,7 +11,7 @@ produce:
 	cat china_ip_list.txt|grep -v ":">>geoip_cn.txt
 	# mv geoip_cn.txt /www
 	# mv noCN.rsc /www
-        rm -rf CN.rsc
+	rm -rf CN.rsc
 	python3 cnip.py
 	# mv CN.rsc /www
 	rm -rf geosite_category-ads-all.txt
