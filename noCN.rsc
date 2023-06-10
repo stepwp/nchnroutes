@@ -5255,12 +5255,10 @@ add list=noCN address=103.116.124.0/22
 add list=noCN address=103.116.80.0/21
 add list=noCN address=103.116.88.0/22
 add list=noCN address=103.116.68.0/22
+add list=noCN address=103.116.0.0/19
 add list=noCN address=103.116.48.0/20
 add list=noCN address=103.116.32.0/21
 add list=noCN address=103.116.44.0/22
-add list=noCN address=103.116.0.0/20
-add list=noCN address=103.116.24.0/21
-add list=noCN address=103.116.16.0/22
 add list=noCN address=103.115.224.0/20
 add list=noCN address=103.115.240.0/21
 add list=noCN address=103.115.252.0/22
