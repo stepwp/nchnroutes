@@ -5800,7 +5800,7 @@ add list=noCN address=103.88.192.0/20
 add list=noCN address=103.88.216.0/21
 add list=noCN address=103.88.208.0/22
 add list=noCN address=103.88.128.0/19
-add list=noCN address=103.88.184.0/22
+add list=noCN address=103.88.184.0/21
 add list=noCN address=103.88.180.0/22
 add list=noCN address=103.88.168.0/21
 add list=noCN address=103.88.160.0/22
