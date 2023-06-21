@@ -3355,6 +3355,7 @@ add list=noCN address=103.226.128.0/22
 add list=noCN address=103.226.96.0/20
 add list=noCN address=103.226.120.0/21
 add list=noCN address=103.226.112.0/22
+add list=noCN address=103.226.118.0/23
 add list=noCN address=103.226.64.0/20
 add list=noCN address=103.226.88.0/21
 add list=noCN address=103.226.84.0/22
