@@ -2190,7 +2190,8 @@ add list=noCN address=61.16.0.0/13
 add list=noCN address=61.24.0.0/14
 add list=noCN address=61.30.0.0/15
 add list=noCN address=61.29.0.0/17
-add list=noCN address=61.29.252.0/23
+add list=noCN address=61.29.252.0/22
+add list=noCN address=61.29.244.0/22
 add list=noCN address=61.28.128.0/17
 add list=noCN address=61.12.0.0/15
 add list=noCN address=61.15.0.0/16
