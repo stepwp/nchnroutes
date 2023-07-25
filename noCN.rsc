@@ -2927,7 +2927,8 @@ add list=noCN address=103.241.208.0/21
 add list=noCN address=103.241.216.0/22
 add list=noCN address=103.241.128.0/19
 add list=noCN address=103.241.176.0/21
-add list=noCN address=103.241.168.0/21
+add list=noCN address=103.241.168.0/22
+add list=noCN address=103.241.174.0/23
 add list=noCN address=103.241.164.0/22
 add list=noCN address=103.241.112.0/20
 add list=noCN address=103.241.104.0/21
@@ -2940,10 +2941,12 @@ add list=noCN address=103.241.32.0/19
 add list=noCN address=103.241.16.0/20
 add list=noCN address=103.241.0.0/21
 add list=noCN address=103.241.8.0/22
-add list=noCN address=103.240.192.0/19
 add list=noCN address=103.240.224.0/20
 add list=noCN address=103.240.248.0/21
 add list=noCN address=103.240.240.0/22
+add list=noCN address=103.240.208.0/20
+add list=noCN address=103.240.192.0/21
+add list=noCN address=103.240.204.0/22
 add list=noCN address=103.240.128.0/19
 add list=noCN address=103.240.176.0/21
 add list=noCN address=103.240.184.0/22
