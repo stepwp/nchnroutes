@@ -4213,7 +4213,11 @@ add list=noCN address=103.158.160.0/20
 add list=noCN address=103.158.176.0/21
 add list=noCN address=103.158.184.0/22
 add list=noCN address=103.158.188.0/23
-add list=noCN address=103.158.64.0/18
+add list=noCN address=103.158.96.0/19
+add list=noCN address=103.158.80.0/20
+add list=noCN address=103.158.64.0/21
+add list=noCN address=103.158.76.0/22
+add list=noCN address=103.158.72.0/23
 add list=noCN address=103.158.32.0/19
 add list=noCN address=103.158.24.0/21
 add list=noCN address=103.158.20.0/22
