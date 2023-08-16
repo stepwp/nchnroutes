@@ -5639,8 +5639,7 @@ add list=noCN address=103.92.160.0/22
 add list=noCN address=103.92.144.0/21
 add list=noCN address=103.92.152.0/22
 add list=noCN address=103.92.136.0/21
-add list=noCN address=103.92.130.0/23
-add list=noCN address=103.92.129.0/24
+add list=noCN address=103.92.128.0/22
 add list=noCN address=103.92.112.0/21
 add list=noCN address=103.92.120.0/22
 add list=noCN address=103.92.96.0/21
