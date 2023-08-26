@@ -5099,9 +5099,7 @@ add list=noCN address=103.119.112.0/23
 add list=noCN address=103.119.114.0/24
 add list=noCN address=103.119.96.0/21
 add list=noCN address=103.119.108.0/22
-add list=noCN address=103.119.48.0/20
-add list=noCN address=103.119.32.0/21
-add list=noCN address=103.119.40.0/22
+add list=noCN address=103.119.32.0/19
 add list=noCN address=103.119.24.0/22
 add list=noCN address=103.119.20.0/22
 add list=noCN address=103.119.8.0/22
@@ -6829,8 +6827,10 @@ add list=noCN address=103.21.144.0/20
 add list=noCN address=103.21.128.0/21
 add list=noCN address=103.21.0.0/18
 add list=noCN address=103.21.64.0/19
-add list=noCN address=103.21.96.0/20
 add list=noCN address=103.21.120.0/21
+add list=noCN address=103.21.104.0/21
+add list=noCN address=103.21.100.0/23
+add list=noCN address=103.21.96.0/23
 add list=noCN address=103.20.208.0/20
 add list=noCN address=103.20.200.0/21
 add list=noCN address=103.20.196.0/22
