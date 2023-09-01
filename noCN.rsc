@@ -680,7 +680,6 @@ add list=noCN address=38.64.94.0/23
 add list=noCN address=38.64.93.0/24
 add list=noCN address=38.64.64.0/21
 add list=noCN address=38.64.72.0/22
-add list=noCN address=38.64.79.0/24
 add list=noCN address=38.0.0.0/11
 add list=noCN address=38.32.0.0/12
 add list=noCN address=38.48.0.0/13
@@ -8617,7 +8616,14 @@ add list=noCN address=139.187.0.0/16
 add list=noCN address=139.180.0.0/15
 add list=noCN address=139.182.0.0/16
 add list=noCN address=139.178.0.0/15
-add list=noCN address=139.177.0.0/16
+add list=noCN address=139.177.0.0/17
+add list=noCN address=139.177.192.0/18
+add list=noCN address=139.177.160.0/19
+add list=noCN address=139.177.128.0/20
+add list=noCN address=139.177.152.0/21
+add list=noCN address=139.177.144.0/22
+add list=noCN address=139.177.150.0/23
+add list=noCN address=139.177.149.0/24
 add list=noCN address=139.160.0.0/13
 add list=noCN address=139.172.0.0/14
 add list=noCN address=139.168.0.0/15
