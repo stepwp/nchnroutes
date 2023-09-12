@@ -4286,7 +4286,6 @@
 52solution.com
 52souji.net
 52souluo.com
-52soutu.com
 52survey.com
 52svip.cc
 52svn.com
@@ -11803,6 +11802,7 @@ bx24k.com
 bx58.com
 bxb2b.com
 bxcc.vip
+bxcqd.com
 bxdaka.com
 bxdlkj.com
 bxemln.com
@@ -30093,7 +30093,6 @@ iptrm.com
 ipuu.net
 ipv4.host
 ipv6dns.com
-ipyker.com
 ipyy.com
 iq123.com
 iqalliance.org
@@ -33248,6 +33247,7 @@ kaiygame.com
 kaiyuan.me
 kaiyuangroup.cc
 kaiyuanhotels.com
+kaiyuanweilaikeji.com
 kaiyun.com
 kajicam.com
 kaka.com
@@ -37647,7 +37647,6 @@ markjour.com
 markmall.com
 markmiao.com
 marknum.com
-markonreview.com
 markorchem.com
 marksmile.com
 marmot-cloud.com
@@ -41867,7 +41866,6 @@ pandateacher.com
 pandatv.com
 pandoe.com
 pandolia.net
-pandownload.com
 panduoduo.net
 panduoduo.online
 panewslab.com
@@ -45717,6 +45715,7 @@ ruixueys.com
 ruixunidc.com
 ruixunidc.net
 ruiyang-ra.com
+ruiyuanobserve.com
 ruiyunit.com
 ruizong-gz.com
 rujiazg.com
@@ -52117,7 +52116,6 @@ tripbaba.com
 tripbe.com
 tripcdn.com
 triphr.com
-triple7photography.com
 triplexservice.com
 tripodeck.com
 tripsanxia.net
@@ -55741,7 +55739,6 @@ whzyblh.com
 whzydz.com
 whzyht.com
 wi799.com
-wiblog.net
 wicep.com
 wicp.net
 wicp.vip
@@ -61021,6 +61018,7 @@ yongshikj.com
 yongsy.com
 yongtu.net
 yongxinby.com
+yongxinji.com
 yongxintex.com
 yongzhentang.com
 yonho.com
@@ -62626,6 +62624,7 @@ zcs.cc
 zcsbbs.com
 zcskj.com
 zctl.net
+zctpt.com
 zctx.com
 zcwlsc.com
 zcwxjx.com
@@ -62650,6 +62649,7 @@ zdexe.com
 zdface.com
 zdfans.com
 zdfx.net
+zdgzc.com
 zdh168.com
 zdhaitao.com
 zdhaitao.net
