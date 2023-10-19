@@ -6196,6 +6196,9 @@ add list=noCN address=103.67.160.0/21
 add list=noCN address=103.67.168.0/22
 add list=noCN address=103.67.152.0/21
 add list=noCN address=103.67.32.0/21
+add list=noCN address=103.67.56.0/21
+add list=noCN address=103.67.48.0/22
+add list=noCN address=103.67.54.0/23
 add list=noCN address=103.67.16.0/20
 add list=noCN address=103.67.12.0/22
 add list=noCN address=103.66.128.0/18
