@@ -1032,7 +1032,7 @@ add list=noCN address=43.250.208.0/22
 add list=noCN address=43.250.192.0/21
 add list=noCN address=43.250.204.0/22
 add list=noCN address=43.250.184.0/21
-add list=noCN address=43.250.180.0/22
+add list=noCN address=43.250.182.0/23
 add list=noCN address=43.250.164.0/22
 add list=noCN address=43.250.152.0/21
 add list=noCN address=43.250.136.0/21
@@ -3653,6 +3653,7 @@ add list=noCN address=103.211.208.0/21
 add list=noCN address=103.211.216.0/22
 add list=noCN address=103.211.200.0/21
 add list=noCN address=103.211.196.0/22
+add list=noCN address=103.211.192.0/23
 add list=noCN address=103.211.176.0/20
 add list=noCN address=103.211.168.0/21
 add list=noCN address=103.211.160.0/22
