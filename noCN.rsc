@@ -5708,12 +5708,10 @@ add list=noCN address=103.96.144.0/21
 add list=noCN address=103.96.128.0/21
 add list=noCN address=103.96.142.0/23
 add list=noCN address=103.96.141.0/24
+add list=noCN address=103.96.64.0/19
 add list=noCN address=103.96.96.0/20
 add list=noCN address=103.96.112.0/21
 add list=noCN address=103.96.120.0/22
-add list=noCN address=103.96.64.0/20
-add list=noCN address=103.96.88.0/21
-add list=noCN address=103.96.84.0/22
 add list=noCN address=103.96.32.0/19
 add list=noCN address=103.96.16.0/20
 add list=noCN address=103.96.12.0/22
