@@ -5391,9 +5391,8 @@ add list=noCN address=103.110.96.0/20
 add list=noCN address=103.110.120.0/21
 add list=noCN address=103.110.112.0/22
 add list=noCN address=103.110.64.0/20
+add list=noCN address=103.110.80.0/21
 add list=noCN address=103.110.88.0/22
-add list=noCN address=103.110.84.0/22
-add list=noCN address=103.110.82.0/23
 add list=noCN address=103.109.128.0/18
 add list=noCN address=103.109.192.0/19
 add list=noCN address=103.109.224.0/20
