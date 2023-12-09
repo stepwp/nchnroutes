@@ -8225,7 +8225,14 @@ add list=noCN address=113.197.64.0/19
 add list=noCN address=113.197.112.0/20
 add list=noCN address=113.197.108.0/22
 add list=noCN address=113.197.96.0/22
-add list=noCN address=113.192.0.0/15
+add list=noCN address=113.193.0.0/16
+add list=noCN address=113.192.128.0/17
+add list=noCN address=113.192.64.0/18
+add list=noCN address=113.192.0.0/19
+add list=noCN address=113.192.48.0/20
+add list=noCN address=113.192.32.0/21
+add list=noCN address=113.192.44.0/22
+add list=noCN address=113.192.42.0/23
 add list=noCN address=113.160.0.0/11
 add list=noCN address=113.144.0.0/12
 add list=noCN address=113.131.0.0/16

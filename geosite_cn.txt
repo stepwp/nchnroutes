@@ -4386,7 +4386,6 @@
 56dagong.com
 56dichan.com
 56dr.com
-56en.com
 56ggb.com
 56gk.com
 56golf.com
@@ -11100,7 +11099,6 @@ bobbystable.com
 bobcfc.com
 bobcoder.cc
 bobdirectbank.com
-bobidc.com
 boblog.com
 bobo.com
 bobopic.com
@@ -16567,7 +16565,6 @@ cuebzzy.com
 cuekit.com
 cuelog.com
 cufeyk.com
-cufou.com
 cug2313.com
 cugstore.com
 cuihuan.net
@@ -17690,7 +17687,6 @@ devask.net
 devblogs.microsoft.com
 devclub.cc
 develenv.com
-developer.dji.com
 developer.htcvive.com
 developer.microsoft.com
 developer.vive.com
@@ -18268,7 +18264,12 @@ djeconomic.com
 djf.com
 djfj.net
 djhgyy.com
+dji.com
+dji.net
 djiavip.com
+djicdn.com
+djiops.com
+djiservice.org
 djjlseo.com
 djjw.com
 djkk.com
@@ -18303,7 +18304,6 @@ dl-huahong.com
 dl-origin.ubnt.com
 dl-rc.com
 dl.delivery.mp.microsoft.com
-dl.djicdn.com
 dl.ubnt.com
 dl0728.com
 dl158.net
@@ -18529,7 +18529,6 @@ dockerone.com
 dockone.io
 doclass.com
 docpe.com
-docs.djicdn.com
 docs.microsoft.com
 docs.oracle.com
 docschina.org
@@ -18736,7 +18735,6 @@ doudou.com
 doudou.in
 doudou3.com
 doudouad.com
-doudouba.com
 doudoubird.com
 doufan.tv
 doufl.com
@@ -22562,7 +22560,6 @@ gagaslklxjasdkafj.com
 gai.net
 gaiamount.com
 gaibar.com
-gain-coupon.com
 gainda.net
 gainet.com
 gaini.net
@@ -24109,7 +24106,6 @@ guangwaifu.com
 guangwangye.com
 guangxi910.com
 guangxigrc.com
-guangxiyou.com
 guangyinglvxing.com
 guangyv.com
 guangzhitui.com
@@ -28252,6 +28248,7 @@ i-kan.me
 i-lewan.com
 i-m.dev
 i-manji.com
+i-markit.com
 i-matcher.com
 i-md.com
 i-modec.com
@@ -29504,7 +29501,6 @@ ingenic.com
 ingkee.com
 ingping.com
 inhdd.com
-inhe.net
 inhuawei.com
 ini3e.com
 inibiru.com
@@ -34408,6 +34404,7 @@ lanmaokeji.com
 lanmaos.com
 lanmit.com
 lanmon.net
+lanosso.com
 lanou3g.com
 lanpanpan.com
 lanqb.com
@@ -34474,6 +34471,7 @@ lanzouw.com
 lanzoux.com
 lanzouy.com
 lanzouz.com
+lanzov.com
 lanzun.net
 laobaigan-hs.com
 laobandq.com
@@ -36778,7 +36776,6 @@ lzzzf.com
 m-finder.com
 m-rainbow.com
 m.biz
-m.dji.com
 m.travelzoo.com
 m0.hk
 m096.com
@@ -38048,7 +38045,6 @@ milu.com
 milvzn.com
 mima.club
 mimgame.com
-mimi456.com
 mimi518.com
 mimidi.com
 mimiteng.com
@@ -38483,7 +38479,6 @@ moejp.com
 moeking.me
 moeli123.com
 moemiao.net
-moerkeji.net
 moerlong.com
 moetu.org
 moetuji.com
@@ -39881,7 +39876,6 @@ nhzs.com
 ni8.com
 ni93.com
 nianbin.com
-niandai.org
 nianhua.plus
 niankawang.com
 nianzhi.cc
@@ -42144,7 +42138,6 @@ plqdf.com
 plsadx.com
 pluosi.com
 plures.net
-plus.dji.com
 plusgantt.com
 plusplustu.com
 plutuspay.com
@@ -42452,7 +42445,6 @@ privspace.net
 prjdrj.com
 procar.cc
 processon.com
-product1.djicdn.com
 productivity.wiki
 proginn.com
 program.today
@@ -43086,7 +43078,6 @@ qianyanapp.com
 qianyuangx.com
 qianyue999.com
 qianyuewenhua.xyz
-qianyunyingyong.com
 qianyuwang.com
 qianzhan.com
 qianzhan123.com
@@ -44810,7 +44801,6 @@ rlsofa.net
 rlwyjf.com
 rlydw.com
 rlyl.net
-rm-static.djicdn.com
 rmb.sh
 rmcteam.org
 rmejk.com
@@ -44833,6 +44823,7 @@ rnbqvet.com
 rnfengwo.com
 rngtest.com
 rnhqxh.com
+ro.com
 ro4.cc
 ro50.com
 road-group.com
@@ -46672,7 +46663,6 @@ shicishe.com
 shiciyun.com
 shida66.com
 shidaedu.vip
-shidai.tv
 shidapx.com
 shidastudy.com
 shidi.org
@@ -46771,6 +46761,7 @@ shiqichuban.com
 shiqidu.com
 shiqu.com
 shiqutech.com
+shiritianchengtech.com
 shishagame.com
 shishangfengyun.com
 shishihuihui.com
@@ -46918,6 +46909,7 @@ shoujihuifu.com
 shoujimi.com
 shoujitouping.com
 shoujiwan.com
+shoukala.com
 shouliwang.com
 shoumizhibo.com
 shoumm.com
@@ -47355,7 +47347,6 @@ siluke.cc
 siluke.tw
 silukeke.com
 siluwu.com
-sim.djicdn.com
 sim800.com
 simagic.com
 simapple.com
@@ -47714,6 +47705,7 @@ skymoons.net
 skynicecity.com
 skynj.com
 skype-china.net
+skypixel.com
 skyrichpower.com
 skyrivers.org
 skyrj.com
@@ -48446,7 +48438,6 @@ srgnmsrg.com
 srgow.com
 srichina.org
 sritsoft.com
-srm.dji.com
 srrsh.com
 srrtvu.com
 srtong.com
@@ -48668,11 +48659,9 @@ stonexp.com
 stor-age.com
 storage-asset.msi.com
 storagesemicon.com
-store.dji.com
 storeedgefd.dsx.mp.microsoft.com
 storkapp.me
 stormorai.com
-stormsend1.djicdn.com
 story520.com
 storyboardworld.com
 storyday.com
@@ -49944,11 +49933,13 @@ tapdb.com
 tapdb.net
 tapenjoy.com
 tapimg.com
+tapimg.net
 tapotiexie.com
 tapque.com
 tapsvc.com
 taptap-api.com
 taptap.com
+taptap.io
 taptapcode.com
 taptapdada.com
 taraniss.com
@@ -54206,7 +54197,6 @@ wdyxgames.com
 wdzj.com
 wdzx.com
 we.com
-we.dji.com
 we1130.com
 we123.com
 we2.name
@@ -56157,7 +56147,6 @@ www.cg
 www.com.my
 www.dell-brand.com
 www.dell.com
-www.dji.com
 www.djivideos.com
 www.globalsign.com
 www.gov.mo
@@ -56173,13 +56162,8 @@ www.tzoo-img.com
 www.vive.com
 www.viveport.com
 www.volvocars.com
-www1.djicdn.com
-www2.djicdn.com
 www21420.com
-www3.djicdn.com
-www4.djicdn.com
 www48-365365.com
-www5.djicdn.com
 wwwatch.in
 wwwbuild.net
 wwwer.net
@@ -57957,6 +57941,7 @@ xlcfcyy.com
 xlcidc.com
 xlctyd.com
 xlcz.com
+xldlive.com
 xlgao.com
 xlgogo.com
 xlgtx.com
@@ -58349,7 +58334,6 @@ xtxcm.com
 xu1s.com
 xuanad.com
 xuanba.com
-xuanbar.com
 xuancaizi.com
 xuanceo.com
 xuancheng.org
