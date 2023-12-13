@@ -3086,14 +3086,11 @@ add list=noCN address=103.242.180.0/22
 add list=noCN address=103.242.164.0/22
 add list=noCN address=103.242.144.0/20
 add list=noCN address=103.242.136.0/21
+add list=noCN address=103.242.0.0/18
 add list=noCN address=103.242.96.0/19
 add list=noCN address=103.242.80.0/20
 add list=noCN address=103.242.72.0/21
 add list=noCN address=103.242.68.0/22
-add list=noCN address=103.242.32.0/19
-add list=noCN address=103.242.16.0/20
-add list=noCN address=103.242.0.0/21
-add list=noCN address=103.242.8.0/22
 add list=noCN address=103.241.224.0/19
 add list=noCN address=103.241.192.0/20
 add list=noCN address=103.241.208.0/21
@@ -8229,7 +8226,9 @@ add list=noCN address=113.193.0.0/16
 add list=noCN address=113.192.128.0/17
 add list=noCN address=113.192.64.0/18
 add list=noCN address=113.192.0.0/19
-add list=noCN address=113.192.48.0/20
+add list=noCN address=113.192.48.0/21
+add list=noCN address=113.192.60.0/22
+add list=noCN address=113.192.58.0/23
 add list=noCN address=113.192.32.0/21
 add list=noCN address=113.192.44.0/22
 add list=noCN address=113.192.42.0/23
