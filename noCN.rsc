@@ -6676,7 +6676,10 @@ add list=noCN address=103.40.216.0/22
 add list=noCN address=103.40.208.0/22
 add list=noCN address=103.40.200.0/21
 add list=noCN address=103.40.196.0/22
-add list=noCN address=103.40.160.0/19
+add list=noCN address=103.40.176.0/20
+add list=noCN address=103.40.160.0/21
+add list=noCN address=103.40.168.0/22
+add list=noCN address=103.40.172.0/23
 add list=noCN address=103.40.128.0/20
 add list=noCN address=103.40.144.0/21
 add list=noCN address=103.40.152.0/22
