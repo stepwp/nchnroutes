@@ -668,7 +668,13 @@ add list=noCN address=36.255.120.0/21
 add list=noCN address=36.255.112.0/22
 add list=noCN address=36.64.0.0/11
 add list=noCN address=36.52.0.0/14
-add list=noCN address=36.50.0.0/16
+add list=noCN address=36.50.0.0/17
+add list=noCN address=36.50.128.0/18
+add list=noCN address=36.50.192.0/19
+add list=noCN address=36.50.240.0/20
+add list=noCN address=36.50.232.0/21
+add list=noCN address=36.50.228.0/22
+add list=noCN address=36.50.224.0/23
 add list=noCN address=36.38.0.0/15
 add list=noCN address=36.37.128.0/17
 add list=noCN address=36.37.64.0/18
