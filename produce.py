@@ -98,7 +98,7 @@ def subtract_cidr(sub_from, sub_by):
                 break
 
 root = []
-root_v6 = [Node(IPV6_UNICAST)]
+# root_v6 = [Node(IPV6_UNICAST)]
 
 with open("ipv4-address-space.csv", newline='') as f:
     f.readline() # skip the title
@@ -110,19 +110,19 @@ with open("ipv4-address-space.csv", newline='') as f:
             cidr = "%s.0.0.0%s" % (block[:3].lstrip("0"), block[-2:], )
             root.append(Node(IPv4Network(cidr)))
 
-with open("delegated-apnic-latest") as f:
-    for line in f:
-        if 'apnic' in args.ipv4_list and "apnic|CN|ipv4|" in line:
-            line = line.split("|")
-            a = "%s/%d" % (line[3], 32 - math.log(int(line[4]), 2), )
-            a = IPv4Network(a)
-            subtract_cidr(root, (a,))
+# with open("delegated-apnic-latest") as f:
+#     for line in f:
+#         if 'apnic' in args.ipv4_list and "apnic|CN|ipv4|" in line:
+#             line = line.split("|")
+#             a = "%s/%d" % (line[3], 32 - math.log(int(line[4]), 2), )
+#             a = IPv4Network(a)
+#             subtract_cidr(root, (a,))
 
-        elif "apnic|CN|ipv6|" in line:
-            line = line.split("|")
-            a = "%s/%s" % (line[3], line[4])
-            a = IPv6Network(a)
-            subtract_cidr(root_v6, (a,))
+#         elif "apnic|CN|ipv6|" in line:
+#             line = line.split("|")
+#             a = "%s/%s" % (line[3], line[4])
+#             a = IPv6Network(a)
+#             subtract_cidr(root_v6, (a,))
 
 if 'ipip' in args.ipv4_list:
     with open("china_ip_list.txt") as f:
@@ -139,7 +139,7 @@ if 'ipip' in args.ipv4_list:
 # get rid of reserved addresses
 subtract_cidr(root, RESERVED)
 # get rid of reserved addresses
-subtract_cidr(root_v6, RESERVED_V6)
+# subtract_cidr(root_v6, RESERVED_V6)
 
 with open("routes4.conf", "w") as f:
     dump_bird(root, f)
@@ -151,5 +151,5 @@ with open("noCN.rsc", "w") as f:
     f.write('/\n')
     f.write('/file remove noCN.rsc\n')
 
-with open("routes6.conf", "w") as f:
-    dump_bird(root_v6, f)
+# with open("routes6.conf", "w") as f:
+#     dump_bird(root_v6, f)
