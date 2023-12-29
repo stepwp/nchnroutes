@@ -127,11 +127,12 @@ with open("ipv4-address-space.csv", newline='') as f:
 if 'ipip' in args.ipv4_list:
     with open("geoip-only-cn-private_cn.txt") as f:
         for line in f:
-            if ":" in line:
-                line = line.strip('\n')                               
-                a = IPv6Network(line)                                 
-                subtract_cidr(root_v6, (a,))
-            else:
+            # if ":" in line:
+            #     line = line.strip('\n')                               
+            #     a = IPv6Network(line)                                 
+            #     subtract_cidr(root_v6, (a,))
+            # else:
+            if ":" not in line:
                 line = line.strip('\n')
                 a = IPv4Network(line)
                 subtract_cidr(root, (a,))
